@@ -1,0 +1,5 @@
+/arch/*/build/
+/kernel/target/
+Cargo.lock
+
+**/*.rs.bk
